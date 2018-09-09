@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>
+    hello World
+  </title>
+  <meta charset="utf-8">
+  <script src="calc.js"></script>
+</head>
+
+<body>
+<p>  Give the Number1: <input type="text" id="num1">
+  Give the Number2: <input type="text"id="num2">
+  Enter your choice 1. addition </br>2.subtraction</br>3.Multiplication</br>4. Division
+  <input type="number" id="op">
+</P>
+  <button type="button" onclick="calc()">Ans</button>
+
+  <p id="ans">Ans is</p>
+</body>
+
+</html>

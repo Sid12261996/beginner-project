@@ -1,0 +1,24 @@
+body{
+  margin-left: 100px;
+  background-color: rgba(92,92,91,0.7);
+  margin-top: 100px;
+
+
+}
+h1,button{
+  align-items: center;
+  font-size: 28px;
+
+}
+#num1,#num2, button,#op{
+  border: 2px solid rgb(26,26,26);
+  padding: 5px;
+
+}
+#main{
+    border: 2px solid rgb(26,26,26);
+    margin-left: 100px;
+    margin-right: 1000px;
+    padding: 50px;
+
+}
