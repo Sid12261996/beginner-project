@@ -1,0 +1,24 @@
+html{
+  background: linear-gradient(180deg,red,white);
+  background-repeat: no-repeat;
+}
+.Textbox{
+
+  margin-left: 550px;
+
+  padding: 15px;
+  border: 1px solid black;
+}
+#Fname{
+  margin-top: 150px;
+}
+#submitbtn{
+  border-radius: 2px;
+margin-left: 600px;
+padding: 15 50 15 50;
+font-color:white;
+color: red;
+}
+#divtxtbx{
+  display: block;
+}
